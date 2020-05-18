@@ -1,0 +1,6 @@
+C:\Users\henrique\source\repos\teste matriz\teste matriz\bin\Debug\teste matriz.exe.config
+C:\Users\henrique\source\repos\teste matriz\teste matriz\bin\Debug\teste matriz.exe
+C:\Users\henrique\source\repos\teste matriz\teste matriz\bin\Debug\teste matriz.pdb
+C:\Users\henrique\source\repos\teste matriz\teste matriz\obj\Debug\teste matriz.csprojAssemblyReference.cache
+C:\Users\henrique\source\repos\teste matriz\teste matriz\obj\Debug\teste matriz.exe
+C:\Users\henrique\source\repos\teste matriz\teste matriz\obj\Debug\teste matriz.pdb
